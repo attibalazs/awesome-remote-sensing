@@ -68,6 +68,7 @@ Remote Sensing is a very exciting field full of potential.
 
 ## Books
 
+* [QGis Python Programming Cookbook](https://www.packtpub.com/application-development/qgis-python-programming-cookbook)
 * [Szeliszki - Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 
 ## Computer Vision
