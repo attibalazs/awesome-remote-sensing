@@ -21,6 +21,8 @@ Remote Sensing is a very exciting field full of potential.
 * [QGIS](http://qgis.org/en/site/)
 * [Orfeo Toolbox](https://www.orfeo-toolbox.org/)
 * [SNAP](http://step.esa.int/main/toolboxes/snap/)
+* [OSGeo4W](https://trac.osgeo.org/osgeo4w/) open source geospatial tools for Windows
+* [GDAL](http://www.gdal.org/) geospatial analysis library
 
 ## Data
 
