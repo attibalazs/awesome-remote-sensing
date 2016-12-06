@@ -89,7 +89,7 @@ Remote Sensing is a very exciting field full of potential.
 
 ## Water Quality
 
-* [Water Quality in inland water](http://www.mcilvainecompany.com/Decision_Tree/subscriber/articles/Water_Quality_in_Slightly_Polluted_Inland_Water_Body.pdf)
+* [Water Quality inland water](http://www.mcilvainecompany.com/Decision_Tree/subscriber/articles/Water_Quality_in_Slightly_Polluted_Inland_Water_Body.pdf)
 
 ## Misc
 
