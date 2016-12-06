@@ -15,14 +15,25 @@ Remote Sensing is a very exciting field full of potential.
 * [Orbital Insights](https://orbitalinsight.com/)
 * [Sentinel and Landsat Browser](https://remotepixel.ca/projects/satellitesearch.html)
 * [DigitalGlobe Crowdsourced Detection](http://www.tomnod.com/)
+* [Watching penguins and their poo from space](http://www.bbc.com/earth/story/20141210-surprising-use-of-penguin-poo)
 
 ## Tools, Libraries
 
-* [QGIS](http://qgis.org/en/site/)
+* [QGIS](http://qgis.org/en/site/) - open source GIS 
 * [Orfeo Toolbox](https://www.orfeo-toolbox.org/)
-* [SNAP](http://step.esa.int/main/toolboxes/snap/)
+* [SNAP](http://step.esa.int/main/toolboxes/snap/) - open source earth observivation application
 * [OSGeo4W](https://trac.osgeo.org/osgeo4w/) open source geospatial tools for Windows
 * [GDAL](http://www.gdal.org/) geospatial analysis library
+
+
+## Projects
+
+* [OSMDeepOD](https://github.com/geometalab/OSMDeepOD) - OSM and Deep Learning based Object Detection from Aerial Imagery (formerly known as "OSM-Crosswalk-Detection")
+* [DeepOSM](https://github.com/trailbehind/DeepOSM) - detecting roads in satellite images using deep learning
+* [Skynet-Data](https://github.com/developmentseed/skynet-data) - Data pipeline for machine learning with OpenStreetMap
+* [CosmiqNet - Patrick Hagerty](https://gist.github.com/hagerty) - skeleton of convolutional neural network for detecting building outlines
+* [Terrapattern on Github](https://github.com/CreativeInquiry/terrapattern) - satellite image pattern search
+* [Terrapattern](http://www.terrapattern.com/about) - satellite image search based on patterns
 
 ## Data
 
@@ -78,7 +89,7 @@ Remote Sensing is a very exciting field full of potential.
 
 ## Water Quality
 
-* [Water Qualirt in inland water](http://www.mcilvainecompany.com/Decision_Tree/subscriber/articles/Water_Quality_in_Slightly_Polluted_Inland_Water_Body.pdf)
+* [Water Quality in inland water](http://www.mcilvainecompany.com/Decision_Tree/subscriber/articles/Water_Quality_in_Slightly_Polluted_Inland_Water_Body.pdf)
 
 ## Misc
 
