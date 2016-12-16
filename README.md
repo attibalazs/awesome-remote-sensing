@@ -6,7 +6,7 @@ Remote Sensing is a very exciting field full of potential.
 
 ## Introduction
 
-* [Nasa Worldview](worldview.earthdata.nasa.gov)
+* [Nasa Worldview](https://worldview.earthdata.nasa.gov)
 * [Landsat Viewer](http://landsatappv1p3.s3-website-us-west-2.amazonaws.com/)
 * [Urthecast Gallery](http://gallery.urthecast.com/)
 * [Earth as Art](http://www.nasa.gov/pdf/703154main_earth_art-ebook.pdf)
@@ -57,7 +57,7 @@ Remote Sensing is a very exciting field full of potential.
 ## Object Detection
 
 * [Neural net dreaming of cars](https://orbitalinsight.com/neural-net-dreams-cars/)
-* [Tracking Oil Tanks](medium.com/from-the-macroscope/the-science-behind-the-signal-tracking-unknown-oil-tanks-around-the-world-9fc917e25795)
+* [Tracking Oil Tanks](https://medium.com/from-the-macroscope/the-science-behind-the-signal-tracking-unknown-oil-tanks-around-the-world-9fc917e25795)
 * [Object Detection on Spacenet data](https://medium.com/the-downlinq/object-detection-on-spacenet-5e691961d257#.b03fcas3i)
 * [Object Detection from satellite imagery](https://medium.com/the-downlinq/object-detection-in-satellite-imagery-a-low-overhead-approach-part-ii-893f40122f92#.rcnyseewi)
 * [Searching for aliens](http://www.machinalis.com/blog/searching-for-aliens/)
