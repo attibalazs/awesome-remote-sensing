@@ -16,7 +16,7 @@ Remote Sensing is a very exciting field full of potential.
 * [Sentinel and Landsat Browser](https://remotepixel.ca/projects/satellitesearch.html)
 * [DigitalGlobe Crowdsourced Detection](http://www.tomnod.com/)
 * [Watching penguins and their poo from space](http://www.bbc.com/earth/story/20141210-surprising-use-of-penguin-poo)
-
+* [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index)
 ## Tools, Libraries
 
 * [QGIS](http://qgis.org/en/site/) - open source GIS 
