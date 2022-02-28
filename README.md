@@ -17,6 +17,8 @@ Remote Sensing is a very exciting field full of potential.
 * [DigitalGlobe Crowdsourced Detection](http://www.tomnod.com/)
 * [Watching penguins and their poo from space](http://www.bbc.com/earth/story/20141210-surprising-use-of-penguin-poo)
 * [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index)
+
+
 ## Tools, Libraries
 
 * [QGIS](http://qgis.org/en/site/) - open source GIS 
@@ -34,6 +36,8 @@ Remote Sensing is a very exciting field full of potential.
 * [CosmiqNet - Patrick Hagerty](https://gist.github.com/hagerty) - skeleton of convolutional neural network for detecting building outlines
 * [Terrapattern on Github](https://github.com/CreativeInquiry/terrapattern) - satellite image pattern search
 * [Terrapattern](http://www.terrapattern.com/about) - satellite image search based on patterns
+* [Streamlit for Geospatial Applications](https://streamlit.geemap.org/) - interactive web apps created using streamlit and open-source mapping libraries
+* [geemap](https://geemap.org/) - Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets
 
 ## Data
 
