@@ -50,6 +50,7 @@ The modern workflow focused on accessing data without downloading large files.
 - [RSGISLib](https://www.rsgislib.org/) – Python library focused on raster remote sensing processing and analysis. [web:37]
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) – Fast raster-based spatial analytics built on xarray, Numba and Dask. [web:50][web:54]
 - [cuSpatial / libcuspatial](https://github.com/rapidsai/cuspatial) – GPU-accelerated C++/CUDA library for vector geospatial operations in the RAPIDS ecosystem (open source). [web:48][web:56]
+- [PixelGust](https://pixelgust.com/) – Web-based platform for terrain, climate risk, and NDVI analysis using Copernicus GLO-30, ERA5, and Sentinel-2 data. Free tier available.
 
 ### High-performance & Rust
 
