@@ -53,6 +53,7 @@ The modern workflow focused on accessing data without downloading large files.
 
 ### High-performance & Rust
 
+- [emem](https://github.com/Vortx-AI/emem) - Open MCP server that exposes signed remote-sensing and geospatial facts for AI agents.
 - [GeoRust](https://georust.org) – Ecosystem of geospatial tools and libraries written in Rust (geometry, projections, I/O, etc.). [web:46][web:51]
 - [awesome-georust](https://github.com/pka/awesome-georust) – Curated list of geospatial software and libraries in Rust. [web:47]
 - [gdal (Rust bindings)](https://github.com/georust/gdal) – Idiomatic Rust wrapper around GDAL for rasters, vectors and spatial references. [web:49][web:57]
