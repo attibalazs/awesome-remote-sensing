@@ -35,6 +35,7 @@ The modern workflow focused on accessing data without downloading large files.
 - [Cloud Optimized GeoTIFF (COG)](https://www.cogeo.org/) – An efficient format for hosted raster data. [web:9]
 - [Microsoft Planetary Computer](https://planetarycomputer.microsoft.com/) – STAC-compliant catalog with a hosted JupyterLab environment for open datasets. [web:9]
 - [stackstac](https://stackstac.readthedocs.io/) – Turn STAC collections into xarray data cubes. [web:9]
+- [Semablu](https://console.semablu.com/py/stac) — STAC-compliant API for AI super-resolved 2.5m Sentinel-2 imagery (RGB+NIR), built on the Copernicus Sentinel-2 L2A archive.
 
 ---
 
