@@ -41,6 +41,7 @@ The modern workflow focused on accessing data without downloading large files.
 ## Tools & Libraries
 
 - [QGIS](https://qgis.org/) – Leading open-source desktop GIS. [web:9]
+- [AI Agent for QGIS](https://github.com/TerraLabAI/QGIS_AI-Agent) – Open-source QGIS plugin that runs plain-English GIS tasks: finds open data (Copernicus, NASA, USGS), runs Processing tools and builds the map.
 - [leafmap](https://leafmap.org/) – Python package for interactive mapping and geospatial analysis. [web:9]
 - [geemap](https://geemap.org/) – Interactive mapping with Google Earth Engine in Python. [web:9]
 - [GDAL](https://gdal.org/) – The “Swiss army knife” for geospatial data translation. [web:9]
